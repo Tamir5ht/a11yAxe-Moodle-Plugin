@@ -1,0 +1,10 @@
+{
+  "name": "moodle-atto_a11lyaxe-button",
+  "builds": {
+    "moodle-atto_a11lyaxe-button": {
+      "jsfiles": [
+        "button.js"
+      ]
+    }
+  }
+}
